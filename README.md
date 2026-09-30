@@ -2,6 +2,14 @@
 free my solutions
 pls credit if u use this
 <img width="1910" height="379" alt="image" src="https://github.com/user-attachments/assets/60b62247-1182-41f5-91d2-7b02fb449a76" />
+trong lqdoj
+
+80% số bài mình làm đều là tự tay làm 
+
+15% là đọc qua editorial trên mạng
+
+còn lại đuối lắm mới phải xài AI, thằng top 1 tự thấy nhục đi kh có trình cứ muốn leo top làm gì 
+
 LQDOJ là web rác vui lòng qua các web chính thống như VNOJ hoặc CF 
 
 2k14 tài năng trẻ thấy người khác hơn điểm là bắt đầu lạm quyền để ban
